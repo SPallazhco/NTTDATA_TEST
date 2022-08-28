@@ -1,0 +1,12 @@
+ec/fin/nttdata/testnttdata/dao/Movimientos.class
+ec/fin/nttdata/testnttdata/TestNttDataApplication.class
+ec/fin/nttdata/testnttdata/dao/ClienteRepository.class
+ec/fin/nttdata/testnttdata/dao/PersonaRepository.class
+ec/fin/nttdata/testnttdata/controller/TransaccionalController.class
+ec/fin/nttdata/testnttdata/model/InfoCliente.class
+ec/fin/nttdata/testnttdata/dao/MovimientosRepository.class
+ec/fin/nttdata/testnttdata/dao/Cliente.class
+ec/fin/nttdata/testnttdata/dao/CuentaRepository.class
+ec/fin/nttdata/testnttdata/model/RangoFechas.class
+ec/fin/nttdata/testnttdata/dao/Persona.class
+ec/fin/nttdata/testnttdata/dao/Cuenta.class
